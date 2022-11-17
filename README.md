@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ath29
+- 👋 Hi, I’m Atharva 
 - 👀 I’m interested in all the emerging technologies including AI, Data science and IoT and also quite fond of DSA as well as learning new languages. 
 - 🌱 I’m currently learning Electronics and Telecommunications engineering. 
 - 🤞🏻 I’m looking to collaborate on anywhere with anyone.
