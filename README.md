@@ -1,6 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on developing skills and proficiency related to machine learning and it's integration in different domains.<br>👯 I’m looking to collaborate on open source projects related to data science and machine learning, and cloud.<br>🤝 I’m looking for help with data structures and algorithms and their applications in different development technologies.<br>🌱 I’m currently getting into the Generative AI spaces.<br>💬 Ask me about cp , dsa, ML , DL , data science , Cloud(GCP).<br>⚡ Fun fact - I can read whole documentation of any code without getting bored.
+<img width="1834" alt="Make your README" src="https://github.com/wittyicon29/wittyicon29/assets/99320225/a3f2ba50-e4d5-4530-a249-4a5e89dcadfd">
 
+## Ah, you've stumbled upon the enigmatic realm of my about section
+
+I'm a code whisperer who can read through entire documentation without getting bored. Looking to collaborate on open source projects related to data science, machine learning, and cloud. Need help with data structures and algorithms? I'm your person. Currently delving into the world of Generative AI. Ask me about anything tech-related, from competitive programming to cloud computing. And here's a fun fact: I find humor in code errors!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whois_.atharva) 
