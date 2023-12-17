@@ -1,6 +1,7 @@
-<img width="1834" alt="Make your README" src="https://github.com/wittyicon29/wittyicon29/assets/99320225/a3f2ba50-e4d5-4530-a249-4a5e89dcadfd">
+<img width="1834" alt="Make your README (2)" src="https://github.com/wittyicon29/wittyicon29/assets/99320225/df4d482e-8b5d-4e8a-b9f1-246c806d55a8">
 
-## Ah, you've stumbled upon the enigmatic realm of my about section
+
+# Ah, you've stumbled upon the realm of my about section
 
 I'm a code whisperer who can read through entire documentation without getting bored. Looking to collaborate on open source projects related to data science, machine learning, and cloud. Need help with data structures and algorithms? I'm your person. Currently delving into the world of Generative AI. Ask me about anything tech-related, from competitive programming to cloud computing. And here's a fun fact: I find humor in code errors!
 
