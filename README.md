@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README (2)" src="https://github.com/wittyicon29/wittyicon29/assets/99320225/df4d482e-8b5d-4e8a-b9f1-246c806d55a8">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=5000&random=false&width=720&lines=I'm+a+code+whisperer+who+does+not+finds+humor+in+code+errors.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=5000&random=false&width=950&lines=I'm+a+code+whisperer+who+does+not+finds+humor+in+bugs+physically+and+virtually.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/whois_.atharva) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva24) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Atharva-Divekar) [	![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/wittyicon29) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20156229) 
